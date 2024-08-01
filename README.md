@@ -1,0 +1,2 @@
+# CSC2002S_2024
+CSC2002S Assignments 2024
